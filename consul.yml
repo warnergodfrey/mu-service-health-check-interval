@@ -1,0 +1,6 @@
+---
+Resources:
+  ElbTargetGroup:
+    Properties:
+      HealthCheckIntervalSeconds: 5
+
